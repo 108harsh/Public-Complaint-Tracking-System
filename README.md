@@ -9,6 +9,36 @@ A comprehensive, full-stack application built to track and manage civic duties. 
 
 ---
 
+## 📁 Project Structure
+
+```text
+pcts/
+├── client/                 # React Frontend
+│   ├── public/             # Static assets
+│   ├── src/                # React source code
+│   │   ├── api/            # Axios API configurations
+│   │   ├── assets/         # Images and SVG assets
+│   │   ├── components/     # Reusable UI & Layout components
+│   │   ├── context/        # React Context providers (AuthContext)
+│   │   ├── pages/          # Full page views (Home, Dashboard, etc.)
+│   │   ├── App.jsx         # Main App routing component
+│   │   └── main.jsx        # React DOM entry point
+│   ├── package.json        # Frontend dependencies
+│   ├── tailwind.config.js  # Tailwind CSS configuration
+│   └── vite.config.js      # Vite build configuration
+└── server/                 # Node.js + Express Backend
+    ├── controllers/        # Request handlers (Admin, Auth, Complaints)
+    ├── db/                 # Database configuration & schema
+    ├── middleware/         # Express middlewares (Auth, Upload)
+    ├── routes/             # API Route definitions
+    ├── uploads/            # Uploaded media files
+    ├── .env.example        # Environment variables template
+    ├── app.js              # Express application entry point
+    └── package.json        # Backend dependencies
+```
+
+---
+
 ## 🛠️ Setup Instructions
 
 ### Prerequisites
