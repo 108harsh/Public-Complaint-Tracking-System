@@ -85,4 +85,10 @@ pcts/
 - ✅ Floating validation states & dynamic Password Strength meters.
 - ✅ Custom visual Timeline components for complaint lifecycle mapping.
 
+## Screenshots:
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/db964298-e927-414f-a770-c0c64eec6996" />
+<img width="1920" height="916" alt="image" src="https://github.com/user-attachments/assets/5efecef8-4c60-4b61-82ad-8dd729749923" />
+<img width="1920" height="916" alt="image" src="https://github.com/user-attachments/assets/feb2eadf-ff46-4321-98b6-37c8fe8540f2" />
+<img width="1920" height="909" alt="image" src="https://github.com/user-attachments/assets/b8dd2e1b-fe50-452c-908e-e2459d32ccb6" />
+
 **Author:** 108harsh - guptaharsh1969@gmail.com
